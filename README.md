@@ -1,5 +1,5 @@
 ![logo](https://github.com/mohsinkhan222/mohsin-code/blob/main/WhatsApp%20Image%202024-08-28%20at%2011.38.17_7a908f24.jpg)
-<h1 align="center">Hi 👋, 🌟 Hi there! I’m Mohsin khan 🌟
+<h1 align="center">Hi 👋,  Hi there! I’m Mohsin khan
 I’m an aspiring Flutter developer with a passion for creating beautiful and functional apps. I’ve recently completed my matric exams and am diving into the world of programming with Flutter.
 
 🔹 Currently learning: Flutter & Dart
