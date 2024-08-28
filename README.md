@@ -1,5 +1,12 @@
 ![logo](https://github.com/mohsinkhan222/mohsin-code/blob/main/WhatsApp%20Image%202024-08-28%20at%2011.38.17_7a908f24.jpg)
-<h1 align="center">Hi 👋, I'm Mohsin khan</h1>
+<h1 align="center">Hi 👋, 🌟 Hi there! I’m [Mohsin khan] 🌟
+I’m an aspiring Flutter developer with a passion for creating beautiful and functional apps. I’ve recently completed my matric exams and am diving into the world of programming with Flutter.
+
+🔹 Currently learning: Flutter & Dart
+🔹 Passionate about: Building user-friendly interfaces and exploring new technologies
+🔹 On my radar: Mastering the basics, contributing to open-source projects, and connecting with other developers
+
+I’m excited to share my journey, learn from the community, and grow my skills. Feel free to connect or check out my projects!</h1>
 <h3 align="center">A passionate flutter app developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohsinkhan222&label=Profile%20views&color=0e75b6&style=flat" alt="mohsinkhan222" /> </p>
